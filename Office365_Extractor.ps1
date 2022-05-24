@@ -43,8 +43,7 @@ $menupart1=@"
   \____/  |_|   |_|   |_|  \___|  \___|   |____/   \___/  |____/    |______| /_/\_\  \__| |_|     \__,_|  \___|  \__|  \___/  |_|   
                                                                                                                                     
                                                                                                                                     
-Script created by Joey Rentenaar & Korstiaan Stam @ PwC Incident Response Netherlands
-Visit our Github https://github.com/PwC-IR/Office-365-Extractor for the full readme
+New version of the script created by Joey Rentenaar & Korstiaan Stam formerly PwC Incident Response Netherlands.
 "@
 
 Clear-Host
