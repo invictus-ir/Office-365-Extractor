@@ -1,5 +1,3 @@
-<h1>Since we both left PwC the script is not being maintained anymore. Check the PwC-IR Github for the latest version.<h1>
-
 <h3>Office 365 Extractor</h3>
 This script makes it possible to extract log data out of an Office365 environment. The script created by us consist out of four main options, which enable the investigator to easily extract logging out of an Office365 environment. 
 
@@ -36,7 +34,7 @@ By default, these roles are assigned to the Compliance Management and Organizati
 https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<br>
 
 <h3>How to use the script</h3>
-1.	Download the Office365_Extractor.ps1<br>
+1.	Download Office365_Extractor.ps1<br>
 2.	Right click on the script and press "Run with PowerShell".<br>
 3.	Now pick any of the options in the menu.<br>
 4.     The logs will be written to the logdirectory in the folder where the script is located.<br>
@@ -178,6 +176,4 @@ The start date should be earlier then the end date.
 The password/username combination are incorrect or the user has not enough privileges to extract the audit logging.<br>
 <br>
 <br>
-Custom script was developed by Joey Rentenaar and Korstiaan Stam from PwC Netherlands Incident Response team. <br>
-Idea is based on a script developed by Tehnoon Raza from Microsoft:<br>
-(https://blogs.msdn.microsoft.com/tehnoonr/2018/01/26/retrieving-office-365-audit-data-using-powershell/).
+
